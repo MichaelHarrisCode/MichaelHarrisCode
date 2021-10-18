@@ -1,6 +1,14 @@
-- 👋 Hi, I’m @theTerrance
+# Introduction
+Hello, I'm Michael Harris. I'm currently a student pursuing a B.S. in Computer Science.
+I have experience with:
+-C++
+-Python
+-C
+-HTML
+-CSS
+-JavaScript
+-PHP
+-SQL
+-Tutoring
 
-<!---
-theTerrance/theTerrance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My goal is to become a Linux Kernel Developer
