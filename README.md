@@ -1,5 +1,5 @@
 ## Who I am
-Hello, I'm Michael Harris. I'm currently a student pursuing a B.S. in Computer Science.
+Hello, I'm Michael Harris. I'm currently a community college graduate with an A.S in Computer Science.
 I consider myself a C programmer, but I'm knowledgeable in other languages.
 My goal is to become a Linux Kernel Developer.
 
