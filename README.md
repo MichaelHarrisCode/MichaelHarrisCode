@@ -10,6 +10,9 @@ I've worked as a computer science tutor at a local community college, where it w
 
 As a young teenager, I got experience working in a couple computer shops and a computer distributor, where I began to learn the ins and outs of computers, and I got to know and understand them on a physical level.
 
+## What I want to do
+Ever since I began learning about it, I've begun to love linux. Really, I enjoy the idea of a worldwide community working together to improve this project. I've always been a fan of community based games, so this really appealed to me. When thinking it through, there's no other field in programming that intrigues me more than operating system development. Because of this, I'd love to work as a Linux Kernel Developer, once I'm experienced enough. Until then, I want to keep building up my skills and knowledge.
+
 ## What I can do
 - C
 - C++
