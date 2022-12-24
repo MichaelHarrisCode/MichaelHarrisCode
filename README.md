@@ -4,7 +4,7 @@ I consider myself a C programmer, but I'm knowledgeable in other languages.
 My goal is to become a Linux Kernel Developer.
 
 ## What I've done
-I'm currently interning as a web developer where I am learning the development process and testing of websites. I've begun to learn the value of JSON files, in addition to debugging webpages.
+I'm currently working as a web developer where I am QAing, fixing, and implementing features on college and university websites.
 
 I've worked as a computer science tutor at a local community college, where it was my job to guide students in C++ and data structures, as well as create a friendly environment for the student's learning.
 
