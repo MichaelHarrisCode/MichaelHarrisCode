@@ -15,7 +15,7 @@ I am deeply passionate about the Linux Kernel. I was originally drawn to Linux b
 
 ## What I can do
 Systems & Low-Level
-- C / C++
+- C
 - Linux Kernel API & LKML Workflow
 - Data Structures & Algorithms
 
