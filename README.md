@@ -1,24 +1,24 @@
 ## Who I am
-Hello, I'm Michael Harris. I'm currently a community college graduate with an A.S in Computer Science.
-I consider myself a C programmer, but I'm knowledgeable in other languages.
-My goal is to become a Linux Kernel Developer.
+Hello, I'm Michael Harris. I am a software engineer with a strong foundation in C and an active contributor to the Linux kernel. While my day-to-day professional experience is web development in a SaaS environment, my primary focus and technical passion lie in low-level systems programming, hardware-software interfaces, and operating system development.
+
+## What I'm currently working on
+I am actively contributing to the Linux kernel, specifically focusing on driver development within the IIO staging subsystem. My current work involves playing my part in bringing staging drivers up to mainline standards, writing patches, managing revisions based on maintainer feedback, and navigating the LKML workflow.
 
 ## What I've done
-I'm currently working as a web developer where I am QAing, fixing, and implementing features on college and university websites.
-
-I've worked as a computer science tutor at a local community college, where it was my job to guide students in C++ and data structures, as well as create a friendly environment for the student's learning.
-
-As a young teenager, I got experience working in a couple computer shops and a computer distributor, where I began to learn the ins and outs of computers, and I got to know and understand them on a physical level.
+- Systems Programming: Successfully submitted and merged patches into the mainline Linux kernel, gaining hands-on experience with subsystem architecture and the upstream review process.
+- Professional Software Development: 3 years of experience in a SaaS environment implementing, QAing, and migrating client websites and features. This role has built my foundation in delivering production code and professional development workflows.
+- Mentorship: Worked as a computer science tutor at the collegiate level, guiding students through C++ and core data structures.
+- Hardware Foundation: My interest in systems started at the bare metal. I spent my early years working in computer repair shops and with hardware distributors, building a physical understanding of the machines I now write code for.
 
 ## What I want to do
-Ever since I began learning about it, I've begun to love linux. Really, I enjoy the idea of a worldwide community working together to improve this project. I've always been a fan of community based games, so this really appealed to me. When thinking it through, there's no other field in programming that intrigues me more than operating system development. Because of this, I'd love to work as a Linux Kernel Developer, once I'm experienced enough. Until then, I want to keep building up my skills and knowledge.
+I am deeply passionate about the Linux Kernel. I was originally drawn to Linux by the collaborative, worldwide community, similar to the community-driven games I enjoy, and that appreciation has only grown as I've started contributing. My long-term goal is to continue writing robust and maintainable C code, grow within the open-source hardware community, and tackle increasingly complex low-level systems architecture.
 
 ## What I can do
-- C
-- C++
+Systems & Low-Level
+- C / C++
+- Linux Kernel API & LKML Workflow
+- Data Structures & Algorithms
+Web & Scripting
 - Python
-- HTML
-- CSS
-- JavaScript
-- PHP
 - SQL
+- HTML / CSS / JavaScript / PHP
